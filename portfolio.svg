@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1056 210" role="img" aria-labelledby="title description">
+  <title id="title">Three portfolio themes</title>
+  <desc id="description">Three panels show message classification, a closed delivery route, and parcel scans moving through a data pipeline.</desc>
+  <rect width="1056" height="210" rx="22" fill="#101c2b"/>
+  <g fill="#17283b" stroke="#30475d">
+    <rect x="20" y="20" width="325" height="170" rx="13"/>
+    <rect x="365" y="20" width="326" height="170" rx="13"/>
+    <rect x="711" y="20" width="325" height="170" rx="13"/>
+  </g>
+  <g font-family="system-ui, sans-serif" font-size="18" font-weight="650" fill="#f0f7ff">
+    <text x="43" y="55">Machine learning</text>
+    <text x="388" y="55">Optimisation</text>
+    <text x="734" y="55">Data engineering</text>
+  </g>
+  <g font-family="system-ui, sans-serif" font-size="13" fill="#b4c8d9">
+    <text x="43" y="77">Evaluate a text classifier</text>
+    <text x="388" y="77">Compare delivery routes</text>
+    <text x="734" y="77">Measure parcel operations</text>
+  </g>
+
+  <g fill="none" stroke="#72c6ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="43" y="106" width="107" height="49" rx="7"/>
+    <path d="M58 121h70m-70 10h53m-53 10h61m31-11h44m0 0 23-15h47m-70 15 23 15h47"/>
+    <path d="M269 108h23a7 7 0 0 1 0 14h-23a7 7 0 0 1 0-14zm0 30h23a7 7 0 0 1 0 14h-23a7 7 0 0 1 0-14z"/>
+  </g>
+
+  <path d="M403 150l49-37 51 17 56-28 46 28 55-10-37 41-70-12-64 14z" fill="#8fe1b7" fill-opacity=".08" stroke="#8fe1b7" stroke-width="2" stroke-linejoin="round"/>
+  <g fill="#8fe1b7" stroke="#17283b" stroke-width="1.5">
+    <rect x="397" y="144" width="12" height="12" rx="2"/>
+    <circle cx="452" cy="113" r="4"/><circle cx="503" cy="130" r="4"/>
+    <circle cx="559" cy="102" r="4"/><circle cx="605" cy="130" r="4"/>
+    <circle cx="660" cy="120" r="4"/><circle cx="623" cy="161" r="4"/>
+    <circle cx="553" cy="149" r="4"/><circle cx="489" cy="163" r="4"/>
+  </g>
+
+  <g fill="none" stroke="#ffc885" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M735 116h34m-34 14h34m-34 14h34m8-28 25 14m-25 0h25m-25 14 25-14m68 0h30m-5-5 5 5-5 5"/>
+    <ellipse cx="837" cy="112" rx="29" ry="9"/>
+    <path d="M808 112v32c0 5 13 9 29 9s29-4 29-9v-32m-58 16c0 5 13 9 29 9s29-4 29-9"/>
+    <path d="M916 154v-47m0 47h91m-75-1v-18h13v18m12 0v-31h13v31m12 0v-42h13v42"/>
+  </g>
+</svg>
